@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016.<br>📚 Always improving my C++ and Python skills.<br>🎯 Goals: being better than yesterday-<br>🎲 Fun fact: On my free time, I love flying 🚁</p>
+<p align="left">✨ Creating bugs since 2016.<br>📚 Always improving my C++ and Python skills.<br>🎯 Goals: being better than yesterday<br>🎲 Fun fact: On my free time, I love flying 🚁</p>
 
 ###
 
